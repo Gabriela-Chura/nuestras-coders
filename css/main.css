@@ -39,7 +39,7 @@ h2{
     }
 
 .box img:hover{
-    opacity: 0.5;
+    opacity: 0.7;
     transition: 2s;
 }
 
